@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.yanbal.com	TRUE	/	FALSE	1999999999	anonymous-consents	%5B%7B%22templateCode%22%3A%22PROFILE%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22YANBAL_CONDITIONS%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22YANBAL_DATA_USE%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22YANBAL_SHARE_CONSULTANT%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%2C%7B%22templateCode%22%3A%22YANBAL_TERMS%22%2C%22templateVersion%22%3A0%2C%22consentState%22%3Anull%7D%5D
+www.yanbal.com	TRUE	/	FALSE	1999999999	ROUTE	.accstorefront-6cf8594b89-zkbbj
+www.yanbal.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.yanbal.com	TRUE	/	FALSE	1999999999	lastSite	UEU="
+www.yanbal.com	TRUE	/	FALSE	1999999999	JSESSIONID	9FD2979DF1A0DBD71CE88E8A1792077C.accstorefront-6cf8594b89-zkbbj
+
